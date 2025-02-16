@@ -1,10 +1,14 @@
 {
   "sections": {
+    "headline": {
+      "type": "headline"
+    },
     "hello_world": {
       "type": "hello-world"
     }
   },
   "order": [
+    "headline",
     "hello_world"
   ]
 }
