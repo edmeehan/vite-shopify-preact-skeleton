@@ -3,16 +3,12 @@
     "headline": {
       "type": "headline"
     },
-    "test": {
-      "type": "headline"
-    },
     "hello_world": {
       "type": "hello-world"
     }
   },
   "order": [
     "headline",
-    "test",
     "hello_world"
   ]
 }
