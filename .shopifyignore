@@ -1,2 +1,9 @@
 assets/.vite/*
 node_modules/*
+frontend/*
+jsconfig.json
+package-lock.json
+package.json
+vite.config.js
+.gitignore
+.gitattributes
